@@ -1,0 +1,60 @@
+/* styles.css */
+
+body {
+    font-family: helvetica, sans-serif;
+    background-color: #ffffff;
+}
+.grad {
+    background-image: linear-gradient(to right, #0ffac7, #cba1f7);
+}
+h1 {
+    color: rgb(0, 0, 0)000;
+}
+
+.centertext {
+    text-align: center;
+}
+
+#disclaimer {
+    font-style: italic;
+    font-size: 16px;
+}
+
+#heading {
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.lefttext {
+    text-align: left;
+}
+
+#subheading {
+    font-size: 24px;
+}
+
+.scroll {
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+#textbold {
+    font-weight: bold;
+}
+.colorRed{
+    color:rgb(0, 0, 0);
+}
+.colorBlue{
+    color:blue;
+}
+
+body {
+    background-color: white;
+    margin: 0;
+    padding: 40px; 
+}
+
+.container {
+    border: 1px solid #000;
+    padding: 20px; 
+}
